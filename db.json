@@ -6,6 +6,16 @@
     }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "Kaif"
+  },
+  "friends":[{
+    "id":1,
+    "name":"friend_1"
+  },{
+    "id":2,
+    "name":"friend_2"
+  },{
+    "id":3,
+    "name":"friend_3"
+  }]
 }
